@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lzxdawn.github.io/"/>
+  <updated>2020-02-23T06:49:06.121Z</updated>
+  <id>https://lzxdawn.github.io/</id>
+  
+  <author>
+    <name>权心</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cookie、LocalStorge、SesstionStorge的用法和区别</title>
+    <link href="https://lzxdawn.github.io/2020/02/23/cookie-local-sess/"/>
+    <id>https://lzxdawn.github.io/2020/02/23/cookie-local-sess/</id>
+    <published>2020-02-23T06:32:13.773Z</published>
+    <updated>2020-02-23T06:49:06.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;总括：详细讲述Cookie、LocalStorge、SesstionStorge的区别和用法。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;1-基本概念&quot;&gt;&lt;a href=&quot;#1-基本概念&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JS防抖和节流</title>
+    <link href="https://lzxdawn.github.io/2020/02/23/fangdou-jieliu/"/>
+    <id>https://lzxdawn.github.io/2020/02/23/fangdou-jieliu/</id>
+    <published>2020-02-23T03:25:00.000Z</published>
+    <updated>2020-02-23T10:41:44.255Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;日常开发过程中，滚动事件做复杂计算频繁调用回调函数很可能会造成页面的卡顿，这时候我们更希望把多次计算合并成一次，只操作一个精确点，JS把这种方式称为debounce（防抖）和throttle（节流）&lt;/p&gt;
+&lt;h2 id=&quot;1-函数防抖-debounce&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="JavaScript" scheme="https://lzxdawn.github.io/tags/JavaScript/"/>
+    
+      <category term="Vue" scheme="https://lzxdawn.github.io/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写博客必备神器</title>
+    <link href="https://lzxdawn.github.io/2020/02/22/blog-tools/"/>
+    <id>https://lzxdawn.github.io/2020/02/22/blog-tools/</id>
+    <published>2020-02-22T12:24:06.098Z</published>
+    <updated>2020-02-23T06:10:20.102Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://lzxdawn.github.io/tags/%E5%8D%9A%E5%AE%A2/&quot;&gt;博客&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
