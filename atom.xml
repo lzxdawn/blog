@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lzxdawn.github.io/"/>
-  <updated>2020-02-23T06:49:06.121Z</updated>
+  <updated>2020-02-24T07:59:32.682Z</updated>
   <id>https://lzxdawn.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Cookie、LocalStorge、SesstionStorge的用法和区别</title>
-    <link href="https://lzxdawn.github.io/2020/02/23/cookie-local-sess/"/>
-    <id>https://lzxdawn.github.io/2020/02/23/cookie-local-sess/</id>
-    <published>2020-02-23T06:32:13.773Z</published>
-    <updated>2020-02-23T06:49:06.121Z</updated>
+    <title>Vue生命周期</title>
+    <link href="https://lzxdawn.github.io/2020/02/24/vue-gouzi/"/>
+    <id>https://lzxdawn.github.io/2020/02/24/vue-gouzi/</id>
+    <published>2020-02-24T07:20:00.000Z</published>
+    <updated>2020-02-24T07:59:32.682Z</updated>
     
     <summary type="html">
     
@@ -29,16 +29,16 @@
       
         
         
-          &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;总括：详细讲述Cookie、LocalStorge、SesstionStorge的区别和用法。&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;1-基本概念&quot;&gt;&lt;a href=&quot;#1-基本概念&quot; class=&quot;headerlink&quot;
+          &lt;p&gt;如果只是单纯地知道vue里面的简单语法，你是可以实现对应的一些项目和对应的想法，但是如果一旦发生问题，我们就需要借助生命周期去寻找问题，甚至说有一些需求的话，你也通过生命周期的情况来定我们该把这个东西写在哪里。所以理解vue的生命周期还是很有必要的。&lt;/p&gt;
+&lt;pre&gt;&lt;c
         
       
     
     </summary>
     
     
+    
+      <category term="Vue" scheme="https://lzxdawn.github.io/tags/Vue/"/>
     
   </entry>
   
@@ -47,7 +47,7 @@
     <link href="https://lzxdawn.github.io/2020/02/23/fangdou-jieliu/"/>
     <id>https://lzxdawn.github.io/2020/02/23/fangdou-jieliu/</id>
     <published>2020-02-23T03:25:00.000Z</published>
-    <updated>2020-02-23T10:41:44.255Z</updated>
+    <updated>2020-02-24T08:03:42.459Z</updated>
     
     <summary type="html">
     
@@ -64,6 +64,8 @@
     </summary>
     
     
+      <category term="JavaScript" scheme="https://lzxdawn.github.io/categories/JavaScript/"/>
+    
     
       <category term="JavaScript" scheme="https://lzxdawn.github.io/tags/JavaScript/"/>
     
@@ -76,7 +78,7 @@
     <link href="https://lzxdawn.github.io/2020/02/22/blog-tools/"/>
     <id>https://lzxdawn.github.io/2020/02/22/blog-tools/</id>
     <published>2020-02-22T12:24:06.098Z</published>
-    <updated>2020-02-23T06:10:20.102Z</updated>
+    <updated>2020-02-24T07:59:19.209Z</updated>
     
     <summary type="html">
     
@@ -92,6 +94,8 @@
     </summary>
     
     
+    
+      <category term="工具" scheme="https://lzxdawn.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
